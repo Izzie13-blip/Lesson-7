@@ -1,0 +1,10 @@
+body{
+   /* background-color: aqua;*/
+    background-image: url('https://www.adobe.com/creativecloud/photography/discover/media_12b2a8222fe8dd6a32fa11134b66caee7db0d59f7.png?width=750&format=png&optimize=medium');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: scroll;
+
+    
+}
