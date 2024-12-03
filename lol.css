@@ -1,0 +1,20 @@
+
+body{
+    /*background: linear-gradient(to right blue,pink);*/
+    background: radial-gradient(circle, purple 15%, red 25%, pink 60%);
+}
+div{
+    width: 200px;
+    height: 150px;
+    background-color: bisque;
+    animation-name: anime;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes anime{
+    15%{background-color:green;}
+    30%{background-color: blanchedalmond;}
+    45%{background-color: blueviolet;}
+    60%{background-color: aquamarine;}
+    100% {background-color: antiquewhite;}
+}
